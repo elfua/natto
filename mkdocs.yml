@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 
-site_name: nanomama
+site_name: natomama
 site_url: https://elfua.github.io/natto/
 repo_url: https://github.com/elfua/natto.git
 repo_name: natto
