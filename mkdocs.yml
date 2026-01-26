@@ -4,10 +4,10 @@ site_name: nanomama
 site_url: https://elfua.github.io/natto/
 repo_url: https://github.com/elfua/natto.git
 repo_name: natto
+remote_branch: gh-pages
 
 theme:
   name: material
-  highlightjs: false
   font: false
   language: es
   palette: 
@@ -18,7 +18,7 @@ theme:
       accent: indigo
       toggle:
         icon: material/brightness-7
-        name: Night
+        name: "🌓"
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
@@ -26,7 +26,7 @@ theme:
       accent: indigo
       toggle:
         icon: material/brightness-4
-        name: Day
+        name: "🌞"
   features:
     - navigation.tabs          # Top-level tabs
     - navigation.sections      # Grouped sidebar items
@@ -37,18 +37,15 @@ theme:
     - search.highlight         # Highlight search terms on page
     - header.autohide
     - announce.dismiss
-  extra: 
-    alternate:
-      - name: English
-        link: /en/
-      - name: Español
-        link: /es/\
-    social:
-      - icon: fontawesome/brands/github
-        link: https://github.com/luppivega
-        name: more
-    generator: false
-    
+extra: 
+
+  highlightjs: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/elfua/natto
+      name: more
+  generator: false
+
 markdown_extensions:
   - admonition                 # Info, Warning, Danger blocks
   - pymdownx.details           # Collapsible blocks
@@ -60,6 +57,7 @@ markdown_extensions:
   - pymdownx.inlinehilite      # Inline code highlighting
   - pymdownx.tabbed:           # Tabbed content blocks
       alternate_style: true
+  - smarty:
   - toc:
       permalink: true          # Adds anchor links to headers
 
