@@ -1,1 +1,1 @@
-# [🚀 🌍 👀 🌎](https://elfua.github.io/natto/)
+# [🔗🔗🔗 🚀 👀 🌎](https://elfua.github.io/natto/)
