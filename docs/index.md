@@ -1,4 +1,8 @@
-# Natto - Fuente #1 de Vitamina K2 y La Paradoja del Calcio
+---
+title: "Natto: fuente de vitamina K2 la solución a la paradoja del calcio"
+---
+
+# Natto: fuente de vitamina K2 la solución a la paradoja del calcio
 
 La vitamina K2 (menaquinona) es más difícil de obtener en una dieta vegetariana que la K1, 
 dado que se produce principalmente mediante la **fermentación bacteriana**. 
@@ -50,7 +54,7 @@ La importancia de la vitamina K2 radica en que es la única capaz de **activar (
 | **Salud Metabólica** | Mejora la sensibilidad a la insulina. | Existe evidencia de que la osteocalcina activada ayuda a regular el azúcar en sangre. |
 
 
-## 3. ¿Por qué es tan importante? (La Paradoja del Calcio)
+## 3. ¿Qué es la paradoja del calcio y por qué es tan importante?
 
 Es crucial debido a un fenómeno llamado la **"Paradoja del Calcio"**: personas que tienen exceso de calcio en las arterias (riesgo de infarto) pero, al mismo tiempo, falta de calcio en los huesos (osteoporosis).
 
