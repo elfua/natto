@@ -11,7 +11,7 @@ tags:
 
 # Natto: fuente principal de vitamina K2, solución a la paradoja del calcio
 
-La vitamina K2 (menaquinona) es más difícil de obtener en una dieta vegetariana que la K1, 
+La [vitamina K2 (menaquinona)](https://es.wikipedia.org/wiki/Menaquinona) es más difícil de obtener en una dieta vegetariana que la K1, 
 dado que se produce principalmente mediante la **fermentación bacteriana**. 
 Mientras que la K1 abunda en vegetales de hoja verde, mientras que la K2 se encuentra de forma natural 
 en alimentos fermentados y algunos productos de origen animal, como los lácteos y los huevos.
@@ -34,7 +34,7 @@ en alimentos fermentados y algunos productos de origen animal, como los lácteos
 
 **Puntos claves:**
 
-* **El Natto es el "Rey":** Es, por mucho, la fuente más rica de K2 en el mundo. Es un alimento japonés de soja fermentada con la bacteria *Bacillus subtilis*. Con una sola cucharada cubre las necesidades diarias.  
+* **El Natto es el "Rey":** Es, por mucho, la fuente más rica de K2 en el mundo. Es un alimento japonés de soja fermentada con la bacteria *[Bacillus subtilis](https://es.wikipedia.org/wiki/Bacillus_subtilis)*. Con una sola cucharada cubre las necesidades diarias.  
 * **La importancia de la fermentación:** La vitamina K2 no existe de forma natural en los vegetales, sino que aparece cuando estos han sido fermentados por bacterias específicas (como en el chucrut o el kimchi), aunque en cantidades mucho menores que en el natto.  
 * **Conversión interna:** El cuerpo humano puede convertir una pequeña parte de la vitamina K1 (de espinacas o brócoli) en K2, pero este proceso es ineficiente. Por este motivo, se recomienda consumir fuentes directas.
 * **Biodisponibilidad:** La forma **MK-7** (presente en el natto y otros alimentos fermentados) permanece más tiempo en la sangre y es más eficaz para la salud ósea y cardiovascular que la forma **MK-4** (presente en huevos y mantequilla).
