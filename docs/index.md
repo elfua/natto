@@ -78,6 +78,6 @@ A diferencia de la vitamina K1 (fácil de obtener en ensaladas), la K2 es escasa
 
 * Se encuentra en grasas de animales que comen **pasto**. La mayoría de los animales hoy comen grano, por lo que su carne y lácteos casi no tienen K2.
 
-!!! note "Importante"
+!!! warning "Importante"
     Si estás tomando suplementos de Calcio o Vitamina D3, la Vitamina K2 es **obligatoria** para evitar que ese calcio extra termine dañando tu corazón.
 
