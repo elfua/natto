@@ -60,7 +60,9 @@ markdown_extensions:
   - smarty:
   - toc:
       permalink: true          # Adds anchor links to headers
+  - meta:
 
 plugins:
   - search
   - tags
+  - meta
