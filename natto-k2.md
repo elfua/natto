@@ -1,13 +1,13 @@
 # Natto - Fuente #1 de Vitamina K2 y La Paradoja del Calcio
 
 La vitamina K2 (menaquinona) es más difícil de obtener en una dieta vegetariana que la K1, 
-dado que se produce principalmente a través de la **fermentación bacteriana**. 
-Mientras que la K1 abunda en vegetales de hoja verde, la K2 se encuentra de forma natural 
-en alimentos fermentados y algunos productos de origen animal (lácteos y huevos).
+dado que se produce principalmente mediante la **fermentación bacteriana**. 
+Mientras que la K1 abunda en vegetales de hoja verde, mientras que la K2 se encuentra de forma natural 
+en alimentos fermentados y algunos productos de origen animal, como los lácteos y los huevos.
 
 ### Fuentes de Vitamina K2
 
-| Alimento | Categoría | Contenido Aprox. (µg/100g) | Forma Principal |
+| Alimento | Categoría | Contenido Aproximado (µg/100g) | Forma Principal |
 | :---- | :---- | :---- | :---- |
 | Natto | Vegetal (Fermentado) | 850 – 1100 | MK-7 |
 | Pate de Hígado de Ganso | Órgano Animal | 369 | MK-4 |
@@ -23,18 +23,18 @@ en alimentos fermentados y algunos productos de origen animal (lácteos y huevos
 
 **Puntos claves:**
 
-* **El Natto es el "Rey":** Es, por mucho, la fuente más rica de K2 en el mundo. Es un alimento japonés de soja fermentada con la bacteria *Bacillus subtilis*. Una sola cucharada puede cubrir las necesidades diarias.  
-* **La importancia de la fermentación:** En los vegetales, la K2 no existe de forma natural; aparece solo si el vegetal ha sido fermentado por bacterias específicas (como en el chucrut o el kimchi), aunque en cantidades mucho menores que en el natto.  
-* **Conversión interna:** El cuerpo humano puede convertir una pequeña parte de la vitamina K1 (de espinacas o brócoli) en K2, pero este proceso es ineficiente. Por ello, se recomienda consumir fuentes directas.  
-* **Biodisponibilidad:** La forma **MK-7** (presente en el natto y fermentados) permanece más tiempo en la sangre y es más eficaz para la salud ósea y cardiovascular que la forma **MK-4** (presente en huevos y mantequilla).
+* **El Natto es el "Rey":** Es, por mucho, la fuente más rica de K2 en el mundo. Es un alimento japonés de soja fermentada con la bacteria *Bacillus subtilis*. Con una sola cucharada cubre las necesidades diarias.  
+* **La importancia de la fermentación:** La vitamina K2 no existe de forma natural en los vegetales, sino que aparece cuando estos han sido fermentados por bacterias específicas (como en el chucrut o el kimchi), aunque en cantidades mucho menores que en el natto.  
+* **Conversión interna:** El cuerpo humano puede convertir una pequeña parte de la vitamina K1 (de espinacas o brócoli) en K2, pero este proceso es ineficiente. Por este motivo, se recomienda consumir fuentes directas.
+* **Biodisponibilidad:** La forma **MK-7** (presente en el natto y otros alimentos fermentados) permanece más tiempo en la sangre y es más eficaz para la salud ósea y cardiovascular que la forma **MK-4** (presente en huevos y mantequilla).
 
-La vitamina K2 es considerada el _"director de tráfico"_ del calcio en el cuerpo. Mientras que la vitamina K1 se encarga principalmente de la coagulación de la sangre en el hígado, la K2 trabaja en los tejidos periféricos (huesos y arterias) para asegurar que el calcio termine donde debe y no donde puede causar daño.2
+La vitamina K2 es el _ «director de tráfico»_ del calcio en el cuerpo. Mientras que la vitamina K1 se encarga principalmente de la coagulación de la sangre en el hígado, la K2 trabaja en los tejidos periféricos (huesos y arterias) para garantizar que el calcio se deposite donde debe y no donde puede causar daños.
 
 Aquí tienes el detalle de su función y por qué es tan crítica para tu salud:
 
 ## 1. La Función Imprescindible: Activación de Proteínas Gla
 
-La importancia de la K2 radica en que es la única capaz de **activar (carboxilar)** dos proteínas esenciales que regulan el calcio. Sin K2, estas proteínas permanecen "dormidas" (inactivas) y el calcio vaga libremente por el cuerpo:
+La importancia de la vitamina K2 radica en que es la única capaz de **activar (carboxilar)** dos proteínas esenciales que regulan el calcio. Sin vitamina K2, estas proteínas permanecen "dormidas" (inactivas) y el calcio vaga libremente por el cuerpo.
 
 * **Osteocalcina:** Esta proteína es la encargada de "atrapar" el calcio de la sangre y fijarlo firmemente en la matriz de los huesos y los dientes.  
 * **Proteína Gla de la Matriz (MGP):** Esta es quizá la función más vital.6 La MGP activada impide que el calcio se deposite en las paredes de las arterias, las válvulas del corazón y otros tejidos blandos.
