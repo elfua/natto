@@ -47,7 +47,7 @@ Aquí tienes el detalle de su función y por qué es tan crítica para tu salud:
 
 La importancia de la vitamina K2 radica en que es la única capaz de **activar (carboxilar)** dos proteínas esenciales que regulan el calcio. Sin vitamina K2, estas proteínas permanecen "dormidas" (inactivas) y el calcio vaga libremente por el cuerpo.
 
-* **Osteocalcina:** Esta proteína es la encargada de "atrapar" el calcio de la sangre y fijarlo firmemente en la matriz de los huesos y los dientes.  
+* **[Osteocalcina](https://es.wikipedia.org/wiki/Osteocalcina):** Esta proteína es la encargada de "atrapar" el calcio de la sangre y fijarlo firmemente en la matriz de los huesos y los dientes.  
 * **Proteína Gla de la Matriz (MGP):** Esta es quizá la función más vital.6 La MGP activada impide que el calcio se deposite en las paredes de las arterias, las válvulas del corazón y otros tejidos blandos.
 
 ## 2. Los Beneficios
@@ -55,7 +55,7 @@ La importancia de la vitamina K2 radica en que es la única capaz de **activar (
 | Área de Salud | Beneficio Específico | ¿Por qué ocurre? |
 | :---- | :---- | :---- |
 | **Salud Ósea** | Prevención de osteoporosis y fracturas. | La K2 activa la osteocalcina, mejorando la densidad y la resistencia mecánica del hueso. |
-| **Salud Cardiovascular** | Prevención de la arterioesclerosis (calcificación). | Activa la proteína MGP, que limpia el calcio de las arterias, manteniéndolas flexibles y jóvenes. |
+| **Salud Cardiovascular** | Prevención de la [arterioesclerosis](https://es.wikipedia.org/wiki/Arteriosclerosis) (calcificación). | Activa la proteína MGP, que limpia el calcio de las arterias, manteniéndolas flexibles y jóvenes. |
 | **Salud Dental** | Dientes más fuertes y resistentes a caries. | Ayuda a la mineralización de la dentina, el tejido duro que está debajo del esmalte. |
 | **Sinergia con Vit. D3** | Optimización de suplementos. | La vitamina D3 aumenta la absorción de calcio, pero la K2 es la que garantiza que ese calcio no se acumule en las arterias. |
 | **Salud Metabólica** | Mejora la sensibilidad a la insulina. | Existe evidencia de que la osteocalcina activada ayuda a regular el azúcar en sangre. |
