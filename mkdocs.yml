@@ -1,12 +1,14 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 
-site_name: My Documentation
+site_name: nanomama
 site_url: https://elfua.github.io/natto/
 repo_url: https://github.com/elfua/natto.git
 repo_name: natto
 
 theme:
   name: material
+  highlightjs: false
+  font: false
   language: es
   palette: 
     # Light mode
@@ -33,7 +35,20 @@ theme:
     - content.code.copy        # "Copy to clipboard" button for code blocks
     - search.suggest           # Search suggestions
     - search.highlight         # Highlight search terms on page
-
+    - header.autohide
+    - announce.dismiss
+  extra: 
+    alternate:
+      - name: English
+        link: /en/
+      - name: Español
+        link: /es/\
+    social:
+      - icon: fontawesome/brands/github
+        link: https://github.com/luppivega
+        name: more
+    generator: false
+    
 markdown_extensions:
   - admonition                 # Info, Warning, Danger blocks
   - pymdownx.details           # Collapsible blocks
