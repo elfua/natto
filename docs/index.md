@@ -1,11 +1,15 @@
 ---
-title: "Natto: fuente de vitamina K2, la solución a la paradoja del calcio"
 tags:
-	- bacilus subtilis
-	- japon
+  - natto
+  - bacilus subtilis
+  - comida japonesa
+  - nattokinasa
+  - salud ósea
+  - vitamina-k2
 ---
 
-# Natto como fuente de vitamina K2, la solución a la paradoja del calcio
+
+# Natto: fuente principal de vitamina K2, solución a la paradoja del calcio
 
 La vitamina K2 (menaquinona) es más difícil de obtener en una dieta vegetariana que la K1, 
 dado que se produce principalmente mediante la **fermentación bacteriana**. 

@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 
-site_name: natomama
+site_name: nattomama
 site_url: https://elfua.github.io/natto/
 repo_url: https://github.com/elfua/natto.git
 repo_name: natto
@@ -18,7 +18,7 @@ theme:
       accent: indigo
       toggle:
         icon: material/brightness-7
-        name: "🌓"
+        name: 🌓
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
@@ -26,7 +26,7 @@ theme:
       accent: indigo
       toggle:
         icon: material/brightness-4
-        name: "🌞"
+        name: 🌞
   features:
     - navigation.tabs          # Top-level tabs
     - navigation.sections      # Grouped sidebar items
@@ -63,3 +63,4 @@ markdown_extensions:
 
 plugins:
   - search
+  - tags
