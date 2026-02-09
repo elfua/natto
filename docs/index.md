@@ -14,9 +14,9 @@ tags:
 (function () {
   const lang = navigator.language || navigator.userLanguage || "en";
   if (lang.toLowerCase().startsWith("es")) {
-    window.location.replace("/es/index.html");
+    window.location.replace("/natto/es/");
   } else {
-    window.location.replace("/en/index.html");
+    window.location.replace("/natto/en/");
   }
 })();
 </script>
