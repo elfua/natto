@@ -37,7 +37,14 @@ theme:
     - search.highlight         # Highlight search terms on page
     - header.autohide
     - announce.dismiss
-extra: 
+extra:
+  alternate:
+    - name: English
+      link: /en/
+      lang: en
+    - name: Español
+      link: /es/
+      lang: es
 
   highlightjs: false
   social:
