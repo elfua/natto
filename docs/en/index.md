@@ -12,7 +12,7 @@ tags:
 
 # Natto: the primary source of vitamin K2 and the solution to the calcium paradox
 
-[Vitamin K2 (menaquinone)](https://es.wikipedia.org/wiki/Menaquinona) is more difficult to obtain on a vegetarian diet than K1,  
+[Vitamin K2 (menaquinone)](https://en.wikipedia.org/wiki/Vitamin_K2) is more difficult to obtain on a vegetarian diet than K1,  
 as it is produced mainly through **bacterial fermentation**.  
 While K1 is abundant in leafy green vegetables, K2 is found naturally in fermented foods and in some animal-derived products, such as dairy and eggs.
 
@@ -34,7 +34,7 @@ While K1 is abundant in leafy green vegetables, K2 is found naturally in ferment
 
 **Key points:**
 
-* **Natto is the “King”:** By far the richest source of K2 in the world. It is a Japanese food made from soybeans fermented with the bacterium *[Bacillus subtilis](https://es.wikipedia.org/wiki/Bacillus_subtilis)*. Just one tablespoon can cover daily requirements.  
+* **Natto is the “King”:** By far the richest source of K2 in the world. It is a Japanese food made from soybeans fermented with the bacterium *[Bacillus subtilis](https://en.wikipedia.org/wiki/Bacillus_subtilis)*. Just one tablespoon can cover daily requirements.  
 * **The importance of fermentation:** Vitamin K2 does not naturally exist in plants; it appears when they are fermented by specific bacteria (as in sauerkraut or kimchi), although in much smaller amounts than in natto.  
 * **Internal conversion:** The human body can convert a small portion of vitamin K1 (from spinach or broccoli) into K2, but this process is inefficient. For this reason, direct sources are recommended.  
 * **Bioavailability:** The **MK-7** form (found in natto and other fermented foods) remains in the bloodstream for longer and is more effective for bone and cardiovascular health than the **MK-4** form (found in eggs and butter).
@@ -47,7 +47,7 @@ Below is a detailed explanation of its role and why it is so critical for your h
 
 The importance of vitamin K2 lies in the fact that it is the only vitamin capable of **activating (carboxylating)** two essential proteins that regulate calcium. Without vitamin K2, these proteins remain “asleep” (inactive), and calcium circulates freely throughout the body.
 
-* **[Osteocalcin](https://es.wikipedia.org/wiki/Osteocalcina):** This protein is responsible for “capturing” calcium from the bloodstream and firmly binding it into the matrix of bones and teeth.  
+* **[Osteocalcin](https://en.wikipedia.org/wiki/Osteocalcin):** This protein is responsible for “capturing” calcium from the bloodstream and firmly binding it into the matrix of bones and teeth.  
 * **Matrix Gla Protein (MGP):** This is perhaps the most vital role. Activated MGP prevents calcium from being deposited in artery walls, heart valves, and other soft tissues.
 
 ## 2. The Benefits
@@ -55,7 +55,7 @@ The importance of vitamin K2 lies in the fact that it is the only vitamin capabl
 | Health Area | Specific Benefit | Why does it happen? |
 | :---- | :---- | :---- |
 | **Bone Health** | Prevention of osteoporosis and fractures. | K2 activates osteocalcin, improving bone density and mechanical strength. |
-| **Cardiovascular Health** | Prevention of [arteriosclerosis](https://es.wikipedia.org/wiki/Arteriosclerosis) (calcification). | It activates MGP, which clears calcium from the arteries, keeping them flexible and youthful. |
+| **Cardiovascular Health** | Prevention of [arteriosclerosis](https://en.wikipedia.org/wiki/Arteriosclerosis) (calcification). | It activates MGP, which clears calcium from the arteries, keeping them flexible and youthful. |
 | **Dental Health** | Stronger teeth, more resistant to decay. | It supports mineralisation of dentine, the hard tissue beneath the enamel. |
 | **Synergy with Vit. D3** | Optimisation of supplementation. | Vitamin D3 increases calcium absorption, but K2 ensures that this calcium does not accumulate in the arteries. |
 | **Metabolic Health** | Improved insulin sensitivity. | There is evidence that activated osteocalcin helps regulate blood sugar levels. |
