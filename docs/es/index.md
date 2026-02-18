@@ -8,12 +8,20 @@ tags:
   - vitamina-k2
 ---
 
-
 # Natto: fuente principal de vitamina K2, solución a la paradoja del calcio
 
-La [vitamina K2 (menaquinona)](https://es.wikipedia.org/wiki/Menaquinona) es más difícil de obtener en una dieta vegetariana que la K1, 
-dado que se produce principalmente mediante la **fermentación bacteriana**. 
-Mientras que la K1 abunda en vegetales de hoja verde, mientras que la K2 se encuentra de forma natural 
+## 3. ¿Qué es la paradoja del calcio y por qué es tan importante?
+
+La vitamina K2 es crucial debido a un fenómeno llamado la **"Paradoja del Calcio"**: personas que tienen exceso de calcio en las arterias (riesgo de infarto) pero, al mismo tiempo, falta de calcio en los huesos (osteoporosis).
+
+La vitamina K2 resuelve este problema:
+
+1. **Saca el calcio de donde estorba:** Evita que las arterias se vuelvan rígidas como "tuberías de piedra".  
+2. **Lo pone donde falta:** Construye un esqueleto sólido.
+
+La [vitamina K2 (menaquinona)](https://es.wikipedia.org/wiki/Menaquinona) es más difícil de obtener en una dieta vegetariana que la K1, dado que se produce principalmente mediante la **fermentación bacteriana**.
+
+Mientras que la K1 abunda en vegetales de hoja verde, la vitamina K2 se encuentra de forma natural 
 en alimentos fermentados y algunos productos de origen animal, como los lácteos y los huevos.
 
 ### Fuentes de Vitamina K2
@@ -32,7 +40,6 @@ en alimentos fermentados y algunos productos de origen animal, como los lácteos
 | Miso / Tempeh | Vegetal (Fermentado) | 10 – 30 | MK-7 |
 | Chucrut / Kimchi | Vegetal (Fermentado) | 2 – 5 | MK-7 |
 
-**Puntos claves:**
 
 * **El Natto es el "Rey":** Es, por mucho, la fuente más rica de K2 en el mundo. Es un alimento japonés de soja fermentada con la bacteria *[Bacillus subtilis](https://es.wikipedia.org/wiki/Bacillus_subtilis)*. Con una sola cucharada cubre las necesidades diarias.  
 * **La importancia de la fermentación:** La vitamina K2 no existe de forma natural en los vegetales, sino que aparece cuando estos han sido fermentados por bacterias específicas (como en el chucrut o el kimchi), aunque en cantidades mucho menores que en el natto.  
@@ -43,14 +50,14 @@ La vitamina K2 es el _ «director de tráfico»_ del calcio en el cuerpo. Mientr
 
 Aquí tienes el detalle de su función y por qué es tan crítica para tu salud:
 
-## 1. La Función Imprescindible: Activación de Proteínas Gla
+## La Función Imprescindible: Activación de Proteínas Gla
 
 La importancia de la vitamina K2 radica en que es la única capaz de **activar (carboxilar)** dos proteínas esenciales que regulan el calcio. Sin vitamina K2, estas proteínas permanecen "dormidas" (inactivas) y el calcio vaga libremente por el cuerpo.
 
 * **[Osteocalcina](https://es.wikipedia.org/wiki/Osteocalcina):** Esta proteína es la encargada de "atrapar" el calcio de la sangre y fijarlo firmemente en la matriz de los huesos y los dientes.  
 * **Proteína Gla de la Matriz (MGP):** Esta es quizá la función más vital.6 La MGP activada impide que el calcio se deposite en las paredes de las arterias, las válvulas del corazón y otros tejidos blandos.
 
-## 2. Los Beneficios
+## Los Beneficios
 
 | Área de Salud | Beneficio Específico | ¿Por qué ocurre? |
 | :---- | :---- | :---- |
@@ -61,16 +68,7 @@ La importancia de la vitamina K2 radica en que es la única capaz de **activar (
 | **Salud Metabólica** | Mejora la sensibilidad a la insulina. | Existe evidencia de que la osteocalcina activada ayuda a regular el azúcar en sangre. |
 
 
-## 3. ¿Qué es la paradoja del calcio y por qué es tan importante?
-
-Es crucial debido a un fenómeno llamado la **"Paradoja del Calcio"**: personas que tienen exceso de calcio en las arterias (riesgo de infarto) pero, al mismo tiempo, falta de calcio en los huesos (osteoporosis).
-
-La vitamina K2 resuelve este problema:
-
-1. **Saca el calcio de donde estorba:** Evita que las arterias se vuelvan rígidas como "tuberías de piedra".  
-2. **Lo pone donde falta:** Construye un esqueleto sólido.
-
-## **4. ¿Por qué solemos tener deficiencia?**
+## ¿Por qué solemos tener deficiencia?**
 
 A diferencia de la vitamina K1 (fácil de obtener en ensaladas), la K2 es escasa en la dieta moderna occidental porque:
 
@@ -81,3 +79,6 @@ A diferencia de la vitamina K1 (fácil de obtener en ensaladas), la K2 es escasa
 !!! warning "Importante"
     Si estás tomando suplementos de Calcio o Vitamina D3, la Vitamina K2 es **obligatoria** para evitar que ese calcio extra termine dañando tu corazón.
 
+## Descubre mas
+* [la historia del natto](natto-history.md)
+* [natto, el desayuno japonés, podría ser un tratamiento posible contra covid](natto-covid.md)
