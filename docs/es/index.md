@@ -79,6 +79,6 @@ A diferencia de la vitamina K1 (fácil de obtener en ensaladas), la K2 es escasa
 !!! warning "Importante"
     Si estás tomando suplementos de Calcio o Vitamina D3, la Vitamina K2 es **obligatoria** para evitar que ese calcio extra termine dañando tu corazón.
 
-## Descubre mas
+## Descubre mas:
 * [la historia del natto](natto-history.md)
 * [natto, el desayuno japonés, podría ser un tratamiento posible contra covid](natto-covid.md)
