@@ -10,7 +10,7 @@ tags:
 
 # Natto: fuente principal de vitamina K2, solución a la paradoja del calcio
 
-## 3. ¿Qué es la paradoja del calcio y por qué es tan importante?
+## ¿Qué es la paradoja del calcio y por qué es tan importante?
 
 La vitamina K2 es crucial debido a un fenómeno llamado la **"Paradoja del Calcio"**: personas que tienen exceso de calcio en las arterias (riesgo de infarto) pero, al mismo tiempo, falta de calcio en los huesos (osteoporosis).
 
@@ -68,7 +68,7 @@ La importancia de la vitamina K2 radica en que es la única capaz de **activar (
 | **Salud Metabólica** | Mejora la sensibilidad a la insulina. | Existe evidencia de que la osteocalcina activada ayuda a regular el azúcar en sangre. |
 
 
-## ¿Por qué solemos tener deficiencia?**
+## ¿Por qué solemos tener deficiencia?
 
 A diferencia de la vitamina K1 (fácil de obtener en ensaladas), la K2 es escasa en la dieta moderna occidental porque:
 
