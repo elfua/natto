@@ -76,3 +76,6 @@ The importance of vitamin K2 lies in the fact that it is the only vitamin capabl
 
 !!! warning "Important"
     If you are taking Calcium or Vitamin D3 supplements, Vitamin K2 is **essential** to prevent that extra calcium from damaging your heart.
+
+## Find out more
+- [The history of natto](natto-history.md)
