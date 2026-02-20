@@ -2,30 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://elfua.github.io/natto/</loc>
-         <lastmod>2026-02-18</lastmod>
+         <lastmod>2026-02-20</lastmod>
     </url>
     <url>
          <loc>https://elfua.github.io/natto/en/</loc>
-         <lastmod>2026-02-18</lastmod>
+         <lastmod>2026-02-20</lastmod>
     </url>
     <url>
          <loc>https://elfua.github.io/natto/en/</loc>
-         <lastmod>2026-02-18</lastmod>
+         <lastmod>2026-02-20</lastmod>
+    </url>
+    <url>
+         <loc>https://elfua.github.io/natto/en/natto-history/</loc>
+         <lastmod>2026-02-20</lastmod>
     </url>
     <url>
          <loc>https://elfua.github.io/natto/es/</loc>
-         <lastmod>2026-02-18</lastmod>
+         <lastmod>2026-02-20</lastmod>
     </url>
     <url>
          <loc>https://elfua.github.io/natto/es/natto-covid/</loc>
-         <lastmod>2026-02-18</lastmod>
+         <lastmod>2026-02-20</lastmod>
     </url>
     <url>
          <loc>https://elfua.github.io/natto/es/natto-history/</loc>
-         <lastmod>2026-02-18</lastmod>
+         <lastmod>2026-02-20</lastmod>
     </url>
     <url>
          <loc>https://elfua.github.io/natto/es/natto-wwii/</loc>
-         <lastmod>2026-02-18</lastmod>
+         <lastmod>2026-02-20</lastmod>
     </url>
 </urlset>
