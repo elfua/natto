@@ -1,5 +1,9 @@
-name: deploy-gh-zens
-# - Go to **Settings → Pages → Source** and switch from `Deploy from a branch` to **GitHub Actions**. This is required for the `actions/deploy-pages` action to work — otherwise it conflicts with the old `gh-pages` branch approach.
+name: deploy-gh-zensical
+
+# - Go to **Settings → Pages → Source** 
+# and switch from `Deploy from a branch` to **GitHub Actions**. 
+# This is required for the `actions/deploy-pages` action to work 
+# — otherwise it conflicts with the old `gh-pages` branch approach.
 
 on:
   push:
