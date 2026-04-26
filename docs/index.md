@@ -12,9 +12,8 @@ tags:
 
 <script>
 (()=>location.replace(
-  ((navigator.language||"en").startsWith("es")
-    ? (location.hostname==="elfua.github.io"?"/natto":"")+"/es/"
-    : (location.hostname==="elfua.github.io"?"/natto":"")+"/en/")
+  (location.hostname.endsWith('.io')?"/singularity":"")+
+  ((navigator.language||"en").startsWith("es")?"/es/":"/en/")
 ))();
 </script>
 
