@@ -144,13 +144,13 @@ That achieving this might be as simple as eating a small container of sticky bea
 
 ## Selected References
 
-- Sumi H. et al. (1987). *A novel fibrinolytic enzyme (nattokinase) in the vegetable cheese Natto.* **Experientia**, 43(10), 1110–1111.
-- Nagata C. et al. (2017). *Dietary soy and natto intake and cardiovascular disease mortality in Japanese adults: the Takayama study.* **American Journal of Clinical Nutrition**, 105, 426–431.
-- Chen H. et al. (2018). *Nattokinase: A promising alternative in prevention and treatment of cardiovascular diseases.* **Biomarker Insights**, 13.
-- Mizutani T. et al. (2021). *Inhibitory effect of natto extract on SARS-CoV-2 infection.* **Biochemical and Biophysical Research Communications**, 560, 115–119.
-- Chen H. et al. (2022). *Effective management of atherosclerosis progress and hyperlipidemia with nattokinase: a clinical study with 1,062 participants.* **Frontiers in Cardiovascular Medicine**, 9, 964977.
-- Liu M. et al. (2024). *Lipid-lowering, antihypertensive, and antithrombotic effects of nattokinase combined with red yeast rice in patients with stable coronary artery disease.* **Frontiers in Nutrition**, 11.
-- Yang X. et al. (2025). *Nattokinase's Neuroprotective Mechanisms in Ischemic Stroke.* **Antioxidants & Redox Signaling**, 42(4–6), 228–248.
+- [Sumi H. et al. (1987). *A novel fibrinolytic enzyme (nattokinase) in the vegetable cheese Natto.* **Experientia**, 43(10), 1110–1111.](https://pubmed.ncbi.nlm.nih.gov/3478223/)
+- [Nagata C. et al. (2017). *Dietary soy and natto intake and cardiovascular disease mortality in Japanese adults: the Takayama study.* **American Journal of Clinical Nutrition**, 105, 426–431.](https://pubmed.ncbi.nlm.nih.gov/27927636/)
+- [Chen H. et al. (2018). *Nattokinase: A promising alternative in prevention and treatment of cardiovascular diseases.* **Biomarker Insights**, 13.](https://pubmed.ncbi.nlm.nih.gov/30013308/)
+- [Mizutani T. et al. (2021). *Inhibitory effect of natto extract on SARS-CoV-2 infection.* **Biochemical and Biophysical Research Communications**, 560, 115–119.](https://pubmed.ncbi.nlm.nih.gov/34271432/)
+- [Chen H. et al. (2022). *Effective management of atherosclerosis progress and hyperlipidemia with nattokinase: a clinical study with 1,062 participants.* **Frontiers in Cardiovascular Medicine**, 9, 964977.](https://pubmed.ncbi.nlm.nih.gov/36072877/)
+- [Liu M. et al. (2024). *Lipid-lowering, antihypertensive, and antithrombotic effects of nattokinase combined with red yeast rice in patients with stable coronary artery disease.* **Frontiers in Nutrition**, 11.](https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=202402216281976298)
+- [Yang X. et al. (2025). *Nattokinase's Neuroprotective Mechanisms in Ischemic Stroke.* **Antioxidants & Redox Signaling**, 42(4–6), 228–248.](https://www.researchgate.net/publication/383084767_Nattokinase's_Neuroprotective_Mechanisms_in_Ischemic_Stroke_Targeting_Inflammation_Oxidative_Stress_and_Coagulation)
 
 ## Discover more:
 * [Natto: the primary dietary source of vitamin K2](index.md)
