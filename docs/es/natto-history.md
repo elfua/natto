@@ -123,7 +123,7 @@ La fermentación que comenzó en el lomo de un caballo en plena campaña militar
 - Sumi H. et al. (1987). *A novel fibrinolytic enzyme (nattokinase) in the vegetable cheese Natto.* **Experientia**, 43(10), 1110–1111.
 - Nagata C. et al. (2017). *Dietary soy and natto intake and cardiovascular disease mortality in Japanese adults: the Takayama study.* **American Journal of Clinical Nutrition**, 105, 426–431.
 - Chen H. et al. (2018). *Nattokinase: A promising alternative in prevention and treatment of cardiovascular diseases.* **Biomarker Insights**, 13.
-- Mizutani T. et al. (2021). *Inhibitory effect of natto extract on SARS-CoV-2 infection.* **Biochemical and Biophysical Research Communications**, 560, 115–119.
+- [Mizutani T. et al. (2021). *Natto extract, a Japanese fermented soybean food, directly inhibits viral infections including SARS-CoV-2 in vitro.* **Biochemical and Biophysical Research Communications**, 560, 115–119.](https://pubmed.ncbi.nlm.nih.gov/34271432/)
 - Chen H. et al. (2022). *Effective management of atherosclerosis progress and hyperlipidemia with nattokinase: a clinical study with 1,062 participants.* **Frontiers in Cardiovascular Medicine**, 9, 964977.
 - Liu M. et al. (2024). *Lipid-lowering, antihypertensive, and antithrombotic effects of nattokinase combined with red yeast rice in patients with stable coronary artery disease.* **Frontiers in Nutrition**, 11.
 - Yang X. et al. (2025). *Nattokinase's Neuroprotective Mechanisms in Ischemic Stroke.* **Antioxidants & Redox Signaling**, 42(4–6), 228–248.
